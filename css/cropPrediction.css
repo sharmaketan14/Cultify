@@ -1,0 +1,56 @@
+#crop-prediction {
+    width: 100%;
+    height: 500px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+}
+
+#predict-form-container {
+    width: 40%;
+    height: 82%;
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+    box-shadow: 5px 10px 10px 10px;
+}
+
+#predict-sub-form{
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+#predict-sub-form section {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+#predict-sub-form ul {
+    width: 100%;
+    margin: 0px;
+    box-sizing: border-box;
+}
+#predict-sub-form li {
+    margin: 0px 20px;
+    width: 80%;
+}
+#predict-sub-form input {
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    color: black;
+}
+#predict-sub-form label{
+    margin-bottom: 0;
+
+}
+#predict-sub-form h2{
+    width: 50%;
+    margin: 0px 132px;
+    margin-bottom: 0px;
+}
